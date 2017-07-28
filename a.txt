@@ -1,0 +1,7 @@
+<<""[DEOF
+<<""[D
+hello
+<<"EOF"
+>EOF
+>hello,world
+>EOF
